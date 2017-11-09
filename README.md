@@ -1,5 +1,7 @@
 # Lesson3 Directives
 
+## [Article...Click](https://medium.com/@bamossza/getting-started-with-angular-part-3-38c5f228b63e)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.1.
 
 ## Development server
